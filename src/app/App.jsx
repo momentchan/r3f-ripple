@@ -147,7 +147,7 @@ function BasicMesh() {
 
             if (mesh.visible) {
                 mesh.rotation.z += 0.01
-                mesh.material.opacity *= 0.96;
+                mesh.material.opacity *= 0.98;
 
 
                 mesh.scale.x = 0.982 * mesh.scale.x + 0.108
